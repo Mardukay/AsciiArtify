@@ -84,7 +84,7 @@
 
    Далі переходимо в UI argocd https://127.0.0.1:9000
 
-   ![Екран логіну ArgoCD](D:\DevOPS_tutor\Learning-notes\DevOPS\AsciiArtify\doc\assets\argocd_login.jpg)
+   ![Екран логіну ArgoCD](https://github.com/Mardukay/AsciiArtify/blob/main/doc/assets/argocd_login.jpg)
 
    Дефолтний пароль для входу - admin, а логін можна дізнатись з secret argocd:
 
@@ -117,4 +117,4 @@
 
    У виводі отримаємо пароль за яким входимо в ArgoCD
 
-   ![argocd](D:\DevOPS_tutor\Learning-notes\DevOPS\AsciiArtify\doc\assets\argocd.jpg)
+   ![argocd](https://github.com/Mardukay/AsciiArtify/blob/main/doc/assets/argocd.jpg)
